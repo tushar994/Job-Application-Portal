@@ -1,4 +1,8 @@
-# MERN Stack Boilerplate
+# Job Application Portal
+
+## About
+
+This is a job portal that allows companies to register and create job listsings, and allows applicants to apply to the jobs of the companies. It allows companies to view the applicants along with their information, and has tons moew features.
 
 ## Installations
 
